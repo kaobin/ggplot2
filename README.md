@@ -16,7 +16,8 @@ Get the released version from CRAN:
 
 ```R
 install.packages("ggplot2")
-```
+```  In the Rstudio Platform one can also install the library by the code followed
+install.package('ggplot2')
 
 Or the development version from github:
 
